@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# Data Engineer-Beginner
 Data Engineering for Beginners
 =======
 # Getting Started Todo App
